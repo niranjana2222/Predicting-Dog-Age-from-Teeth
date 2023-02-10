@@ -1,4 +1,4 @@
-# Predicting-Dog-Age-from-Teeth
+# Predicting Dog Age from Teeth
 
 Abstract
 
