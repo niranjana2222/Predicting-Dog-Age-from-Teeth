@@ -1,9 +1,4 @@
 # Predicting Dog Age from Teeth
-/* Hide the published date, author, category, and author box on downloads archive page */
-.post-type-archive-download .entry-meta {display:none;}
-
-/* Hide the published date, author, category, and author box on single download page */
-.single-download .entry-meta {display:none;}
 
 Abstract
 
